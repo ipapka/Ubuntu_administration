@@ -12,4 +12,45 @@ mkdir
 rmdir
 which
 whereis
+----
+sudo apt-get update
+sudo apt-get upgrade
+reboot
+shutdown
+----cd
+sudo passwd root
+su root
+sudo -s login as root without pass
+sudo su
+sudo apt-get remove tree
+---
+linux directory structure
+bin -- executed commands
+dev - files and folders related to hardware
+home - ifo about user profiles
+lib - contains supported files
+media - cdrom or removable media
+opt -- related information addons
+root -- dir of root user
+sbin - bin files for root user
+srv - stands for services related to the server
+tmp - temporary files for applications
+var - contains variable information
+boot -the important files which are required during boot operations
+etc - all of configuration files
+lost+found - used to restore files and folders
+mnt - mounting dir - mount file systems
+proc -used to store info about the processes are running on system
+run -files and folders required during boot
+snap -new concept applications
+sys - devices connected to hardware
+usr - files and folders inside the linux
+
+--
+Linux Boot process in details
+
+
+
+
+
 
