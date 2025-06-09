@@ -1,0 +1,15 @@
+echo $HOME - print variable
+pwd
+cd / - root dir
+ls
+cd home dir
+cd ..
+cd - move to the prev dir
+ls -a - show hidden files
+ls -l - list in long format
+ls -ld - info abount dir
+mkdir
+rmdir
+which
+whereis
+
